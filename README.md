@@ -18,7 +18,6 @@ This is a Streamlit web app that uses the Mistral 7B LLM via Ollama to extract k
 ## 🚀 Demo
 
 https://github.com/chatepri/ai-contract-analyzer/blob/main/media/demo.mp4
-⬆️ Replace this with the GitHub video URL once uploaded.
 
 ## 📁 Sample Files
 
